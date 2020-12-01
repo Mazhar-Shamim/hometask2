@@ -1,0 +1,29 @@
+h3{
+	border: 7px solid salmon;
+}
+img{
+	width: 500px;
+}
+
+.name{
+	color: blue;
+	font-size: 37px;
+}
+.bg{
+	background-color: green;
+}
+#dist{
+	color: #000333;
+	font-size: 20px;
+}
+#country{
+	color: lime;
+}
+.box{
+	width: 200px;
+    height: 200px;
+    background-color: rgba(10, 18, 33, .3);;
+}
+#fb{
+	color: blue;
+}
